@@ -1,3 +1,6 @@
+# 3.0.0
+- 兼容android v2
+
 # 2.1.2
 - `curve` was added in both indicators.
 

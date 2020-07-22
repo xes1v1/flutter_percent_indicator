@@ -1,13 +1,16 @@
 name: percent_indicator
 description: Library that allows you to display progress widgets based on percentage, can be Circular or Linear, you can also customize it to your needs.
-version: 2.1.1+1
+version: 3.0.0
 author: Diego Velásquez <diego.velasquez.lopez@gmail.com>
 homepage: https://twitter.com/diegoveloper
 repository: https://github.com/diegoveloper/flutter_percent_indicator/
+publish_to: http://47.92.66.57:8282/
 
 dependencies:
   flutter:
     sdk: flutter
+
+  vector_math: ^2.0.8
 
 environment:
     sdk: ">=1.19.0 <3.0.0"    
